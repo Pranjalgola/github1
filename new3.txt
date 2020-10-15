@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 hello
+=======
+<<<<<<< HEAD
+hello
+=======
+hello
+>>>>>>> main
+>>>>>>> branch2
